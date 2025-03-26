@@ -2,7 +2,7 @@
 <h3 align="center">Φοιτητής στο Πανεπιστήμιο Ιωαννίνων - Μηχανικός Η/Υ και Πληροφορικής</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=935&lines=Welcome+to+my+GitHub!;sleep(),+eat(),+code(),+repeat();Simplicity+is+the+soul+of+efficiency;Code+is+like+a+joke.+If+you+have+to+explain+it+,+It's+bad;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=935&lines=Welcome+to+my+GitHub!;sleep(),+eat(),+code(),+repeat();Simplicity+is+the+soul+of+efficiency.;Code+is+like+a+joke.+If+you+have+to+explain+it,+It's+bad.;" alt="Typing SVG" />
 </p>
 
 ---
@@ -11,8 +11,8 @@
 
 - 🎓 Είμαι φοιτητής στο Τμήμα Μηχανικών Η/Υ και Πληροφορικής στο **Πανεπιστήμιο Ιωαννίνων**
 - 👨‍💻 Με ενδιαφέρει ιδιαίτερα ο χώρος του **software engineering**
-- 🌱 Μαθαίνω συνεχώς και εξερευνώ διαφορετικά κομμάτια του προγραμματισμού
 - 📫 Μπορείς να επικοινωνήσεις μαζί μου στο **aggeloschatz02@gmail.com** ή στο [LinkedIn](https://www.linkedin.com/in/aggelos)
+- 🌱 Η περιέργεια δεν είναι bug. Είναι feature.
 
 ---
 
@@ -59,4 +59,3 @@ I'm passionate about software engineering, constantly learning, and open to new 
 
 ---
 
-> 💡 Αν θέλεις να προσθέσουμε projects, portfolio link ή ακόμη και sections με χιούμορ/fun facts, πες μου και το βάζουμε!
