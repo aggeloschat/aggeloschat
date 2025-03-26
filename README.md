@@ -42,8 +42,16 @@
 
 ### 📈 Επισκέψεις στο προφίλ μου
 <p>
+
+<img src="https://komarev.com/ghpvc/?username=aggeloschat&label=debuggers+spotted&color=FF69B4&style=flat" alt="debuggers spotted" />
+  <img src="https://komarev.com/ghpvc/?username=aggeloschat&label=👁+profile+scans&color=00FFC6&style=flat-square" alt="profile scans" />
   <img src="https://komarev.com/ghpvc/?username=aggeloschat&label=Visitors&color=gray&style=flat-square" alt="Visitors" />
   <img src="https://komarev.com/ghpvc/?username=aggeloschat&label=Profile%20views&color=0e75b6&style=flat" alt="aggeloschat" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aggeloschat&label=👁️+profile+visits&color=6A5ACD&style=flat-square" alt="visits" />
+  <br />
+  <sub>ναι, με παρακολουθούν 👀</sub>
 </p>
 
 ---
