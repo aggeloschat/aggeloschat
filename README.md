@@ -1,5 +1,4 @@
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)![snake gif](https://github.com/aggeloschat/aggeloschat/blob/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/aggeloschat/aggeloschat/blob/output/github-contribution-grid-snake.svg)
+
 <h1 align="center">Καλωσήρθες 👋</h1>
 <h3 align="center">Φοιτητής στο Πανεπιστήμιο Ιωαννίνων - Μηχανικός Η/Υ και Πληροφορικής</h3>
 
@@ -61,3 +60,6 @@ I'm passionate about software engineering, constantly learning, and open to new 
 - ⚡ Any fool can write code that a computer can understand. Good programmers write code that humans can understand — Martin Fowler
 
 ---
+<p align="center">
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</p>
