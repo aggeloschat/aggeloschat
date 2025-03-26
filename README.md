@@ -2,7 +2,7 @@
 <h3 align="center">Φοιτητής στο Πανεπιστήμιο Ιωαννίνων - Μηχανικός Η/Υ και Πληροφορικής</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=935&lines=Welcome+to+my+GitHub!;sleep(),+eat(),+code(),+repeat();Simplicity+is+the+soul+of+efficiency;Code+is+like+a+joke+If+you+have+to+explain+it+.+It's+bad;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=935&lines=Welcome+to+my+GitHub!;sleep(),+eat(),+code(),+repeat();Simplicity+is+the+soul+of+efficiency;Code+is+like+a+joke,+If+you+have+to+explain+it.+It's+bad;" alt="Typing SVG" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 
 ---
 
-## 🌍 In English (for international visitors)
+## 🌍 In English
 
 Hi there! 👋 I'm **Aggelos Chatzopoulos**, a 23-year-old Computer Engineering student at the **University of Ioannina** in Greece.  
 I'm passionate about software engineering, constantly learning, and open to new ideas and collaborations.
