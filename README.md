@@ -42,7 +42,7 @@
 
 ### 📈 Επισκέψεις στο προφίλ μου
 <p>
-  <img src="https://komarev.com/ghpvc/?username=aggeloschat&label=🫣+creepers&color=0a1d3b&style=flat+' '" alt="creepers counter" />
+  <img src="https://komarev.com/ghpvc/?username=aggeloschat&label=🫣+creepers &color=0a1d3b&style=flat" alt="creepers counter" />
 </p>
 
 ---
