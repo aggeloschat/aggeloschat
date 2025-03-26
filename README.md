@@ -60,7 +60,7 @@ Software Engineer in the Making | Code Magician | Professional Debugger
 </p>
 
 ---
-
+<p align="center"> <a href="https://linkedin.com/in/angelhatz"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:angelhatz@protonmail.com"> <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> </a> <a href="https://twitter.com/codeangel"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </p
 ## 🌍 In English
 
 Hi there! 👋 I'm **Aggelos Chatzopoulos**, a 23-year-old Computer Engineering student at the **University of Ioannina** in Greece.  
