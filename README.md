@@ -11,8 +11,8 @@
 
 - 🎓 Είμαι φοιτητής στο Τμήμα Μηχανικών Η/Υ και Πληροφορικής στο **Πανεπιστήμιο Ιωαννίνων**
 - 👨‍💻 Με ενδιαφέρει ιδιαίτερα ο χώρος του **software engineering**
-- 📫 Μπορείς να επικοινωνήσεις μαζί μου στο **aggeloschatz02@gmail.com** ή στο [LinkedIn](https://gr.linkedin.com/in/aggelos-chatzopoulos-827834304?trk=public_profile_samename-profile)
 - 🌱 Η περιέργεια δεν είναι bug. Είναι feature.
+- 📫 Μπορείς να επικοινωνήσεις μαζί μου στο **aggeloschatz02@gmail.com** ή στο [LinkedIn](https://gr.linkedin.com/in/aggelos-chatzopoulos-827834304?trk=public_profile_samename-profile)
 
 ---
 
@@ -35,6 +35,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aggeloschat&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aggeloschat&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aggeloschat&theme=tokyonight" />
 </p>
 
 ---
@@ -58,4 +59,3 @@ I'm passionate about software engineering, constantly learning, and open to new 
 - ⚡ Any fool can write code that a computer can understand. Good programmers write code that humans can understand — Martin Fowler
 
 ---
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
