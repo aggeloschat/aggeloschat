@@ -72,7 +72,7 @@ I'm passionate about software engineering, constantly learning, and open to new 
 - ⚡ Any fool can write code that a computer can understand. Good programmers write code that humans can understand — Martin Fowler
 
 
- <p align="center">💬 <a href="https://linkedin.com/in/aggeloschat)"> 
+ <p align="center">💬 <a href="https://linkedin.com/in/aggeloschat"> 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> <a href="mailto:aggeloschatz02@gmail.com">
   <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> </a>
