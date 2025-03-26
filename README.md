@@ -34,6 +34,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aggeloschat&show_icons=true&theme=tokyonight" />
+  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aggeloschat&theme=tokyonight" />
 </p>
 
@@ -41,6 +42,7 @@
 
 ### 📈 Επισκέψεις στο προφίλ μου
 
+<img src="https://komarev.com/ghpvc/?username=aggeloschat&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aggeloschat&label=Profile%20views&color=0e75b6&style=flat" alt="aggeloschat" />
 </p>
