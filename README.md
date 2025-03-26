@@ -6,10 +6,11 @@
 </p>
 
 ---
-
+<h2>
 Software Engineer in the Making | Code Magician | Professional Debugger
+</h2>
 
-📍 Ioannina, Greece | 🎂 23 y.o. | 🖥️ Computer Science & Engineering
+|📍 Ioannina, Greece | 🎂 23 y.o. | 🖥️ Computer Science & Engineering|
 
 ### 🧠 Λίγα λόγια για εμένα
 
