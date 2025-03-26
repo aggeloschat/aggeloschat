@@ -12,7 +12,7 @@
 - 🎓 Είμαι φοιτητής στο Τμήμα Μηχανικών Η/Υ και Πληροφορικής στο **Πανεπιστήμιο Ιωαννίνων**
 - 👨‍💻 Με ενδιαφέρει ιδιαίτερα ο χώρος του **software engineering**
 - 🌱 Μαθαίνω συνεχώς και εξερευνώ διαφορετικά κομμάτια του προγραμματισμού
-- 📫 Μπορείς να επικοινωνήσεις μαζί μου στο **aggeloschatz02@gmail.com** ή στο [LinkedIn](https://www.linkedin.com/in/aggelos)
+- 📫 Μπορείς να επικοινωνήσεις μαζί μου στο **aggeloschatz02@gmail.com** ή στο [LinkedIn](https://gr.linkedin.com/in/aggelos-chatzopoulos-827834304?trk=public_profile_samename-profile)
 
 ---
 
