@@ -2,7 +2,7 @@
 <h3 align="center">Φοιτητής στο Πανεπιστήμιο Ιωαννίνων - Μηχανικός Η/Υ και Πληροφορικής</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=935&lines=System.out.println(%22Welcome+to+my+Github%22);sleep(),+eat(),+code(),+repeat().;def+life():+return+code+%2B+coffee;while(!succeed)+%7B+tryAgain()+%7D;Simplicity+is+the+soul+of+efficiency.;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=935&lines=System.out.println(%22Welcome+to+my+Github%22);sleep(),+eat(),+code(),+repeat().;def+life():+return+code+%2B+coffee;while(!succeed)+%7B+tryAgain()+%7D;Simplicity+is+the+soul+of+efficiency." alt="Typing SVG" />
 </p>
 
 
