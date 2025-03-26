@@ -11,7 +11,7 @@
 
 - 🎓 Είμαι φοιτητής στο Τμήμα Μηχανικών Η/Υ και Πληροφορικής στο **Πανεπιστήμιο Ιωαννίνων**
 - 👨‍💻 Με ενδιαφέρει ιδιαίτερα ο χώρος του **software engineering**
-- 📫 Μπορείς να επικοινωνήσεις μαζί μου στο **aggeloschatz02@gmail.com** ή στο [LinkedIn](https://www.linkedin.com/in/aggelos)
+- 📫 Μπορείς να επικοινωνήσεις μαζί μου στο **aggeloschatz02@gmail.com** ή στο [LinkedIn](www.linkedin.com/in/aggelos-chatzopoulos-827834304)
 - 🌱 Η περιέργεια δεν είναι bug. Είναι feature.
 
 ---
@@ -53,8 +53,9 @@ Hi there! 👋 I'm **Aggelos Chatzopoulos**, a 23-year-old Computer Engineering 
 I'm passionate about software engineering, constantly learning, and open to new ideas and collaborations.
 
 - 🔭 Currently learning and building cool stuff
-- 💬 Reach me at: **aggeloschatz02@gmail.com** | [LinkedIn](https://www.linkedin.com/in/aggelos)
-- ⚡ Fun fact: I believe that great code is like good poetry — expressive, elegant, and with a little flair!
+- 💬 Reach me at: **aggeloschatz02@gmail.com** | [LinkedIn](www.linkedin.com/in/aggelos-chatzopoulos-827834304)
+
+- ⚡ Any fool can write code that a computer can understand. Good programmers write code that humans can understand — Martin Fowler
 
 ---
 
