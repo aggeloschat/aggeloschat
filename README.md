@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=935&lines=System.out.println(%22Welcome+to+my+Github%22)%3B;sleep(),+eat(),+code(),+repeat().;def+life():+return+code+%2B+coffee+%3B;while(!succeed)+%7B+tryAgain()%3B+%7D;DSimplicity+is+the+soul+of+efficiency.;" alt="Typing SVG" />
 </p>
+hi
 
 
 ---
