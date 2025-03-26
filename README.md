@@ -6,11 +6,11 @@
 </p>
 
 ---
-<h2>
+<h3>
 Software Engineer in the Making | Code Magician | Professional Debugger
-</h2>
+</h3>
 
-|📍 Ioannina, Greece | 🎂 23 y.o. | 🖥️ Computer Science & Engineering|
+📍 Ioannina, Greece | 🎂 23 y.o. | 🖥️ Computer Science & Engineering
 
 ### 🧠 Λίγα λόγια για εμένα
 
@@ -61,16 +61,24 @@ Software Engineer in the Making | Code Magician | Professional Debugger
 </p>
 
 ---
-<p align="center"> <a href="https://linkedin.com/in/angelhatz"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:angelhatz@protonmail.com"> <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> </a> <a href="https://twitter.com/codeangel"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> </p
 ## 🌍 In English
 
 Hi there! 👋 I'm **Aggelos Chatzopoulos**, a 23-year-old Computer Engineering student at the **University of Ioannina** in Greece.  
 I'm passionate about software engineering, constantly learning, and open to new ideas and collaborations.
 
 - 🔭 Currently learning and building cool stuff
-- 💬 Reach me at: **aggeloschatz02@gmail.com** | [LinkedIn](www.linkedin.com/in/aggelos-chatzopoulos-827834304)
+
 
 - ⚡ Any fool can write code that a computer can understand. Good programmers write code that humans can understand — Martin Fowler
+
+
+ <p align="center">💬 <a href="https://linkedin.com/in/aggelos-chatzopoulos-827834304)"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> <a href="mailto:aggeloschatz02@gmail.com">
+  <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> </a>
+  <a href="https://twitter.com/aggeloschat">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p
 
 ---
 
