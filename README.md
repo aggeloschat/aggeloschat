@@ -1,4 +1,4 @@
-<h1 align="center">Καλωσήρθες 👋</h1>
+<h1 align="center">Welcome 👋</h1>
 <h3 align="center">Φοιτητής στο Πανεπιστήμιο Ιωαννίνων - Μηχανικός Η/Υ και Πληροφορικής</h3>
 
 <p align="center">
