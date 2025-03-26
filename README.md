@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=935&lines=System.out.println(Welcome+to+my+GitHub!).;sleep(),+eat(),+code(),+repeat().;Simplicity+is+the+soul+of+efficiency.;Code+is+like+a+joke.+If+you+have+to+explain+it,+It's+bad.;" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=500&lines=def+life():+return+code+%2B+coffee;while(!succeed)+%7B+tryAgain();+%7D;System.out.println(%22Hello+World%22);code+==+poetry+%26%26+bugs+==+plot_twists;try:+beProductive()+except:+scrollMemes();sudo+apt-get+install+motivation" alt="Typing SVG" />
+</p>
+
 ---
 <h3>
 Software Engineer in the Making | Code Magician | Professional Debugger
