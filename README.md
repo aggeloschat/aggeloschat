@@ -17,7 +17,7 @@ Software Engineer in the Making | Code Magician | Professional Debugger
 
 - 🎓 Είμαι φοιτητής στο Τμήμα Μηχανικών Η/Υ και Πληροφορικής στο **Πανεπιστήμιο Ιωαννίνων**
 - 👨‍💻 Με ενδιαφέρει ιδιαίτερα ο χώρος του **software engineering**
-- 📫 Μπορείς να επικοινωνήσεις μαζί μου στο **aggeloschatz02@gmail.com** ή στο [LinkedIn](www.linkedin.com/in/aggeloschat)
+- 📫 Μπορείς να επικοινωνήσεις μαζί μου στο **aggelosk.chatzopoulos@gmail.com** ή στο [LinkedIn](www.linkedin.com/in/aggeloschat)
 - 🌱 Η περιέργεια δεν είναι bug. Είναι feature.
 
 ---
@@ -79,7 +79,7 @@ I'm passionate about software engineering, constantly learning, and open to new 
 
  <p align="center">💬 <a href="https://linkedin.com/in/aggeloschat"> 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> <a href="mailto:aggeloschatz02@gmail.com">
+  </a> <a href="mailto:aggelosk.chatzopoulos@gmail.com">
   <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> </a>
   <a href="https://twitter.com/aggeloschat">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
