@@ -8,7 +8,7 @@
 
 ---
 <h3>
-Software Engineer in the Making | Code Magician | Professional Debugger
+Backend Developer | Software Engineer | Java • Spring Boot • PostgreSQL • Docker | Open to Remote Opportunities
 </h3>
 
 📍 Ioannina, Greece | 🎂 23 y.o. | 🖥️ Computer Science & Engineering
