@@ -11,18 +11,17 @@
 Backend Developer | Software Engineer | Java • Spring Boot • PostgreSQL • Docker | Open to Remote Opportunities
 </h3>
 
-📍 Ioannina, Greece | 🎂 23 y.o. | 🖥️ Computer Science & Engineering
+📍 Ioannina, Greece | 23 y.o. | Computer Science & Engineering
 
-### 🧠 Λίγα λόγια για εμένα
+### Σχετικά με εμένα
 
-- 🎓 Είμαι φοιτητής στο Τμήμα Μηχανικών Η/Υ και Πληροφορικής στο **Πανεπιστήμιο Ιωαννίνων**
-- 👨‍💻 Με ενδιαφέρει ιδιαίτερα ο χώρος του **software engineering**
-- 📫 Μπορείς να επικοινωνήσεις μαζί μου στο **aggelosk.chatzopoulos@gmail.com** ή στο [LinkedIn](www.linkedin.com/in/aggeloschat)
-- 🌱 Η περιέργεια δεν είναι bug. Είναι feature.
+-  Σπουδάζω στο Τμήμα Μηχανικών Η/Υ και Πληροφορικής, στο **Πανεπιστήμιο Ιωαννίνων**
+-  Με ενδιαφέρει ιδιαίτερα ο χώρος του **Software Engineering** κυρίως **Backend Development**
+-  Επικοινωνία μαζί μου στο **aggelosk.chatzopoulos@gmail.com** ή [LinkedIn](www.linkedin.com/in/aggeloschat)
 
 ---
 
-### 💻 Τεχνολογίες που χρησιμοποιώ
+### 💻 Τεχνολογίες
 
 <!-- <p> -->
 <!--   <img src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python" /> -->
@@ -60,21 +59,20 @@ Backend Developer | Software Engineer | Java • Spring Boot • PostgreSQL • 
 
 ---
 
-### 📈 Επισκέψεις στο προφίλ μου
 <p>
   <img src="https://komarev.com/ghpvc/?username=aggeloschat&label=creepers&color=0a1d3b&style=flat" alt="creepers counter" />
 </p>
 
 ---
-## 🌍 In English
+## 🌍 English
 
-Hi there! 👋 I'm **Aggelos Chatzopoulos**, a 23-year-old Computer Engineering student at the **University of Ioannina** in Greece.  
-I'm passionate about software engineering, constantly learning, and open to new ideas and collaborations.
+Welcome! I'm **Aggelos Chatzopoulos**, a 23-year-old Computer Engineering student at the **University of Ioannina** in Greece.  
+I am mainly interested in **Software engineering**, **Backend Development** , and open to new ideas and collaborations.
 
-- 🔭 Currently learning and building cool stuff
+- Currently studying, while learning and building cool stuff
 
 
-- ⚡ Any fool can write code that a computer can understand. Good programmers write code that humans can understand — Martin Fowler
+- Any fool can write code that a computer can understand. Good programmers write code that humans can understand — Martin Fowler
 
 
  <p align="center"><a href="https://linkedin.com/in/aggeloschat"> 
